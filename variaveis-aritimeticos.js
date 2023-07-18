@@ -8,11 +8,11 @@ mensagem = "A subtração de " + x + " e " + y + " é " + resultado
 console.log(mensagem); //8
 
 resultado = x * y;
-mensagem = "A multiplicação de " + x + " e " + y + " é " + resultado
+mensagem = "A multiplicação de " + x + " e " + y + " é " + resultado;
 console.log(mensagem);//20
 
 resultado = x / y;
-mensagem = "A divisão de " + x + " e " + y + " é " + resultado
+mensagem = "A divisão de " + x + " e " + y + " é " + resultado;
 console.log(mensagem); //5
 
 //Resolução do exercicio usando string template

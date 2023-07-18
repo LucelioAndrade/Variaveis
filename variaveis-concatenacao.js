@@ -1,4 +1,4 @@
-let nome = "Lucelio"
+let nome = "Lucelio";
 let sobrenome = "Andrade";
 let nomeCompleto = nome + " " + sobrenome;
 
